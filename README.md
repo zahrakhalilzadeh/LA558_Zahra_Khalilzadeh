@@ -5,6 +5,6 @@ The following is some links to my exercises, assignments and class projects.
 
 
 # Class Exercises
-[Execise_1a](exercises/ex1a.md)
+[Execise_1a](Assignment1/ex1a.md)
 
 [Execise_2b](exercises/ex2b.md)
