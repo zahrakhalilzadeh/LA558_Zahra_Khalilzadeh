@@ -10,3 +10,8 @@ Flight tracking can be done by using the Aircraft registration number (tail numb
 
 Based on the data provided in this excelsheet, number of tracked flights are always less than or equal to the number of scheduled flights. 
 I think it means that the scheduled flights are not always tracked by the flight system.
+
+## Analysis of candy data: 
+Based on these following graphs which show the total number of candy pieces for each color for the whole bags of each type, blue candies, red candies, and green candies have the highest number in plain, caramel, and peanut bags respectively. In other words if you like blue candies, red candies, or green candies there is the highest probability that you can find more of them in plain, caramel, and peanut bags respectively. 
+[Ex1a]()
+
