@@ -5,4 +5,4 @@ The following is some links to my exercises, assignments and class projects.
 
 
 # Class Exercises
-[Execise_2b](ex2b.jpg)
+[Execise_2b](exercises/ex2b.jpg)
