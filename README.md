@@ -9,4 +9,4 @@ The following is some links to my exercises, assignments and class projects.
 # Class Exercises
 * [Execise_1a](Assignment1/Ex1a.md)
 
-[Execise_2b](exercises/ex2b.md)
+* [Execise_2b](exercises/ex2b.md)
