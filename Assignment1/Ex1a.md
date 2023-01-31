@@ -1,5 +1,5 @@
 # This is my Exercise 1 file
-Analysis of flight data: 
+## Analysis of flight data: 
 Scheduled flights are flights that operate on a regular basis, following a set schedule. These flights usually operate between two or more airports and have a 
 specific departure and arrival time. Scheduled flights are typically operated by commercial airlines, such as American Airlines, Delta Air Lines, and United Airlines, 
 and are meant to transport passengers and cargo on a regular basis.
