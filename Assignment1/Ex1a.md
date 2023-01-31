@@ -12,5 +12,5 @@ Based on the data provided in this excelsheet, number of tracked flights are alw
 I think it means that the scheduled flights are not always tracked by the flight system.
 
 ## Analysis of candy data: 
-![This is the analysis of candy data](ex2b.jpg)
+![This is the analysis of candy data](candyObservation1.PNG)
 
