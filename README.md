@@ -10,3 +10,6 @@ The following is some links to my exercises, assignments and class projects.
 * [Execise_1a](Assignment1/Ex1a.md)
 
 * [Execise_2b](exercises/ex2b.md)
+
+# Assignments
+* [Assignment 1](assignments/Assignment1/Assignment1all3Sections.html)
