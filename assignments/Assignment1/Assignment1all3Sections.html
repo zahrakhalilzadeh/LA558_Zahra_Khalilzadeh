@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Assignment One</title>
+    </head>
+    <body>
+        <h1> Map 1 is OpenStreetMap with a marker embedded on a web page </h1>
+        <iframe width="625" height="556" frameborder="2" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-93.6542683839798%2C42.0247538330208%2C-93.6465972661972%2C42.02792181981713&amp;layer=mapnik&amp;marker=42.02633784615197%2C-93.6504328250885" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.02634&amp;mlon=-93.65043#map=18/42.02634/-93.65043">View Larger Map</a></small>
+        
+        <h1> Map of the communities within the 3 KM of stations</h1>
+        <p>The first file that we got for this mini project is the coastline data from natural earth. The second file is the National Records of Scotland-Settlements 2016 Centroids which includes the location of various towns, villages and cities in Scotland. This file only provides just the location and not even the names of those settlements. I joined this file with a layer of population data also from the national records of Scotland. However, National Records of Scotland- Estimated population of settlements by broad age groups,mid-2016 is not geocoded, and contains not only the population but also the names and it has a column in common corresponding to a certain settlement code. We joined Settlements2016_Centroids layer with the population layer by going to properties of the Settlements2016_Centroids layer, going down to joins and adding a new join which is the population table. I joined them based on their common columns which was the settlement code. I saved the joined layer as a new shape file and named it JoinedSettlementData.
+
+                    Then I added the layer including rail stations (Stops). Ten we created buffers with 3 KM distance from each station. We want to see what settlements have overlap with the buffer. Instead of manually do that, I created a new layer which shows all of the cases in which the buffer around the station overlaps with a settlement. The new Intersection layer shows only those stations that overlapped with the Buffer. So the Intersection layer shows the communities within the 3 KM of stations.
+        </p>
+        <a href="assign3.pdf" target="_blank">Link to PDF</a>
+
+        <h1> Leaflet Quick Start and Shape Basics </h1>
+        <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="LA 558 Leaflet trial 2023">
+
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+      }
+
+      .leaflet-container {
+        height: 500px;
+        width: 600px;
+        max-width: 100%;
+        max-height: 100%;
+      }
+    </style>
+
+ <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+     crossorigin=""/>
+     <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+     crossorigin=""></script>
+  </head>
+
+
+  <body>
+    <div id="map"></div>
+    <script>
+      var map = L.map('map').setView([51.505, -0.09], 12);
+
+      var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
+
+
+      var marker = L.marker([51.5, -0.15]).addTo(map);
+
+      var marker2 = L.marker([51.5, -0.13]).addTo(map);
+      
+      var marker3 = L.marker([51.47, -0.13]).addTo(map);
+
+      var circle = L.circle([51.508, -0.11], {
+        color: 'green',
+        fillColor: 'yellow',
+        fillOpacity: 0.5,
+        radius: 1500
+      }).addTo(map);
+
+
+      var polygon = L.polygon([
+        [51.509, -0.08],
+        [51.503, -0.06],
+        [51.51, -0.047],
+        [51.52, -0.049]
+      ], {
+        color: 'blue',
+        fillColor: 'orange',
+        fillOpacity: 0.75,
+      }).addTo(map);
+      
+      var circle = L.circle([51.47, -0.13], {
+        color: 'yellow',
+        fillColor: 'red',
+        fillOpacity: 0.5,
+        radius: 1500
+      }).addTo(map);
+
+
+
+//alternatively you can define the appearance and coordinates within a variable and then pull those into the constructor see more examples at https://www.igismap.com/leafletjs-point-polyline-polygon-rectangle-circle/
+
+      var latlngs = [
+        [51.49, -0.13],
+        [51.47, -0.14],
+        [51.5, -0.15]
+      ];
+      var polygon2 = L.polygon(latlngs, {
+        color: 'black',
+        fillColor: 'white',
+        fillOpacity: 1.0
+      });
+      polygon2.addTo(map);
+
+      // A simple orange rectangle
+      var latlngs = [
+        [51.5, -0.08],
+        [51.47, -0.07]
+      ];
+      var rectOptions = {
+        color: 'orange',
+        weight: 5
+      }
+      var rectangle = L.rectangle(latlngs, rectOptions);
+      rectangle.addTo(map);
+
+    </script>
+    </body>
+</html>
