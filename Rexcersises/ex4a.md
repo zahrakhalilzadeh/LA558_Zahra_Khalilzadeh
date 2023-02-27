@@ -3,9 +3,11 @@ Let's create two plots using a built-in dataset in R called mtcars. This dataset
 
 ## Here are the steps to create these plots:
 1- Load the ggplot2 package, which we will use to create the plots.
+
 library(ggplot2)
 
 2-Load the mtcars dataset by typing data(mtcars).
+
 data(mtcars)
 
 3-Create a scatterplot of mpg vs. horsepower using ggplot() function. The aes() function is used to specify which variables to plot on the x and y axes.
