@@ -11,4 +11,13 @@ data(mtcars)
 3-Create a scatterplot of mpg vs. horsepower using ggplot() function. The aes() function is used to specify which variables to plot on the x and y axes.
 ggplot(mtcars, aes(x = hp, y = mpg)) + 
   geom_point()
-![This is a scatterplot of mpg vs. horsepower using ggplot() function](ex2b.jpg)
+  
+![This is a scatterplot of mpg vs. horsepower using ggplot() function](ScatterplotExc4a.jpeg)
+
+4- Create a barplot of the number of cylinders in each car model using ggplot() function. The aes() function is used to specify which variable to use for the x-axis, and the geom_bar() function is used to create the barplot.
+ggplot(mtcars, aes(x = factor(cyl))) + 
+  geom_bar()
+  
+![This is a barplot of the number of cylinders in each car model using ggplot() function](RplotLecture4a.jpeg)
+  
+  
