@@ -18,6 +18,6 @@ ggplot(mtcars, aes(x = hp, y = mpg)) +
 ggplot(mtcars, aes(x = factor(cyl))) + 
   geom_bar()
   
-![This is a barplot of the number of cylinders in each car model using ggplot() function](RplotLecture4a.jpeg)
+![This is a barplot of the number of cylinders in each car model using ggplot() function](barplotExc4a.jpeg)
   
   
