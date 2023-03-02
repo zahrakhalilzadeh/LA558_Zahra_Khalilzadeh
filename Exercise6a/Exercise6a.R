@@ -47,7 +47,7 @@ below10000
 #Percentage of each household(normalizing data) in counties of Iowa####
 #What summary_var  does id it takes in a single variabe we want to use as a denominator, which
 #is usually the hole number of observations, for example for the following example, we have
-#number of each race including Hispanic = "P2_002N",White = "P2_005N",Black = "P2_006N",
+#number of each ocupancy status including,
 #Occupied = "H1_002N", Vacant = "H1_003N",and we know that the total number
 #of each variable in censuc data is _001 so, here the variable that we give it to summary_var 
 #is "H1_001N" which is total number of householedS in each geography for each type of occupancy
