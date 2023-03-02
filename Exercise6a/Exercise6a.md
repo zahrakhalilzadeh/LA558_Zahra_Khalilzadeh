@@ -3,4 +3,4 @@ In the following map we used 2020 Census Data with R and tidycensus to plot Hous
 
 ![This is a map I made](Exercise6a.jpeg)
 
-* [This a link to my R code for this map](Exercise6a/Exercise6a.R)
+* [This a link to my R code for this map](Exercise6a.R)
