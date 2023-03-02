@@ -16,4 +16,5 @@ The following is some links to my exercises, assignments and class projects.
 # Assignments
 * [Assignment 1](assignments/Assignment1/Assignment1all3Sections.html)
 * [Assignment 2](assignment2/assignment2.md)
+* [Assignment 3](assignment3/assignment3.md)
 
