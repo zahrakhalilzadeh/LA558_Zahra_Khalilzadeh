@@ -1,6 +1,6 @@
 # This is my Assignment 3 file.
 ## A plot using variable(s) of choice from TidyCensus
-For the following map we used American Community Survey (ACS) Data. We first calculated the percentage of each race(normalizing data) in counties of Arizona and then ploted the Native Race Percentage by County in Arizona.
+For the following map we used American Community Survey (ACS) Data for year of 2021. We first calculated the percentage of each race(normalizing data) in counties of Arizona and then ploted the Native Race Percentage by County in Arizona.
 
 ![This is a map I made](NativeRacePercentagebyCountyinArizona.jpeg)
 
