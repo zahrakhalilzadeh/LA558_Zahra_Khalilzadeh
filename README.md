@@ -13,7 +13,7 @@ The following is some links to my exercises, assignments and class projects.
 
 * [Execise_4a](Rexcersises/ex4a.md)
 
-* [Execise_6a](Exercise6a/Exercise6aa.md)
+* [Execise_6a](Exercise6a/Exercise6a.md)
 
 
 # Assignments
