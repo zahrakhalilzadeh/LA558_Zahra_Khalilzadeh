@@ -15,6 +15,8 @@ The following is some links to my exercises, assignments and class projects.
 
 * [Execise_6a](Exercise6a/Exercise6a.md)
 
+* [Execise_7b](Exercise7b/ex7b.html)
+
 
 # Assignments
 * [Assignment 1](assignments/Assignment1/Assignment1all3Sections.html)
