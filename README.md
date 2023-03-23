@@ -3,7 +3,7 @@ This is my repo for LA 558 Introduction to Web Mapping and Spatial Data Visualiz
 
 The [index.md](index.md) file contains contents for the GitHub web page http://zahrakhalilzadeh.github.io/LA558_Zahra_Khalilzadeh.
 
-I am a PhD student in Industrial Engineering at Iowa State University.
+
 
 
 
