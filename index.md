@@ -21,4 +21,5 @@ I am a PhD student in Industrial Engineering at Iowa State University.
 * [Assignment 1](assignments/Assignment1/Assignment1all3Sections.html)
 * [Assignment 2](assignment2/assignment2.md)
 * [Assignment 3](assignment3/assignment3.md)
+* [Assignment 4](assignment4/assignment4.html)
 
