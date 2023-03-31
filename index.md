@@ -24,5 +24,5 @@ I am a PhD student in Industrial Engineering at Iowa State University.
 * [Assignment 4](assignment4/assignment4.html)
 
 # Final Project
-* [Project Proposal](FinalProjct/ProjectProposal.md)
+* [Project Proposal](FinalProject/ProjectProposal.md)
 
