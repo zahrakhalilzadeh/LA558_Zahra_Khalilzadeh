@@ -43,4 +43,8 @@ https://www.nass.usda.gov/Charts_and_Maps/Crops_County/index.php#cr
 * Data collection and cleaning: Gathering and cleaning data from different sources can be a time-consuming and challenging task. Ensuring data accuracy and consistency will be important to obtain meaningful insights from the analysis.
 * Developing a web map using R or Tableau requires technical skills in programming, data visualization, and geospatial analysis.
 
+## Timeline: Goal dates showcasing what you home to complete by certain dates. For example data collection, cleaning
 
+I am planning to finish up this project by the end of April 2023.
+
+I will first start to collect and clean data on crop yields, soil quality, and weather patterns in Iowa. Then I will analyze the data to identify trends and correlations in crop production, soil quality, and weather pattern. Then I will use R or Tableau to create a web map that visualizes crop yields across different counties in Iowa over time. After that I will conduct a soil analysis to identify trends and correlations in soil quality across Iowa's fields, and monitor weather patterns in the region to identify correlations between weather events and crop yields. If I have time I also plan to use remote sensing technologies (such as satellites) to monitor plant growth and health and create a vegetation map. Finally, I will write a report summarizing the analysis and findings of the project, and repare a presentation to showcase the project and its results.
