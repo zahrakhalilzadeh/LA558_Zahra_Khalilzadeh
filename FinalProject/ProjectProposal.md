@@ -31,3 +31,5 @@ The project proposes to use web mapping technology such as R or Tableau to visua
 
 ## Data: List of data sources you will utilize
 
+Yield data, soil data, and weather data will be downloaded from https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction.
+
