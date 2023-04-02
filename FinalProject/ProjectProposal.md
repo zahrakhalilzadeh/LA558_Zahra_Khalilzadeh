@@ -23,3 +23,8 @@ To further enhance the analysis, the project will use remote sensing technologie
 
 Finally, the project will monitor weather patterns in the region to identify correlations between weather events and crop yields.
 In summary, the project aims to use data analysis techniques and remote sensing technologies to create a comprehensive analysis of crop yields in Iowa. By developing a web map that visualizes crop yields across different counties in Iowa over time, the project aims to help farmers optimize their crop management practices. The project will also use a soil analysis, vegetation map, and weather monitoring to identify trends and patterns that could improve crop yields and reduce the risk of pest and disease outbreaks.
+
+
+## Technology: proposed to use to complete the project
+
+The project proposes to use web mapping technology such as R or Tableau to visualize crop yields across different regions over time.
