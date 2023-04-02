@@ -40,6 +40,6 @@ https://www.nass.usda.gov/Charts_and_Maps/Crops_County/index.php#cr
 
 ## Potential Challenges: List items you will need to work through on the project
 
-*Data collection and cleaning: Gathering and cleaning data from different sources can be a time-consuming and challenging task. Ensuring data accuracy and consistency will be important to obtain meaningful insights from the analysis.
+* Data collection and cleaning: Gathering and cleaning data from different sources can be a time-consuming and challenging task. Ensuring data accuracy and consistency will be important to obtain meaningful insights from the analysis.
 
 
