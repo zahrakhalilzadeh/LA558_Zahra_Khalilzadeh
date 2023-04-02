@@ -33,3 +33,13 @@ The project proposes to use web mapping technology such as R or Tableau to visua
 
 Yield data, soil data, and weather data will be downloaded from https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction.
 
+
+## Inspiration: List of Web Sites used for inspiration for the project
+
+https://www.nass.usda.gov/Charts_and_Maps/Crops_County/index.php#cr
+
+## Potential Challenges: List items you will need to work through on the project
+
+*Data collection and cleaning: Gathering and cleaning data from different sources can be a time-consuming and challenging task. Ensuring data accuracy and consistency will be important to obtain meaningful insights from the analysis.
+
+
