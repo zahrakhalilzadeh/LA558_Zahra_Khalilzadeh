@@ -28,3 +28,6 @@ In summary, the project aims to use data analysis techniques and remote sensing 
 ## Technology: proposed to use to complete the project
 
 The project proposes to use web mapping technology such as R or Tableau to visualize crop yields across different regions over time.
+
+## Data: List of data sources you will utilize
+
