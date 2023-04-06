@@ -16,6 +16,8 @@ I am a PhD student in Industrial Engineering at Iowa State University.
 
 * [Execise_7b](Exercise7b/ex7b.html)
 
+* [Execise_10b](TableauExcercises/exercise10b.html)
+
 
 # Assignments
 * [Assignment 1](assignments/Assignment1/Assignment1all3Sections.html)
