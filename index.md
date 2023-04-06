@@ -6,17 +6,17 @@ I am a PhD student in Industrial Engineering at Iowa State University.
 
 
 # Class Exercises
-* [Execise_1a](Assignment1/Ex1a.md)
+* [Exercise_1a](Assignment1/Ex1a.md)
 
-* [Execise_2b](exercises/ex2b.md)
+* [Exercise_2b](exercises/ex2b.md)
 
-* [Execise_4a](Rexcersises/ex4a.md)
+* [Exercise_4a](Rexcersises/ex4a.md)
 
-* [Execise_6a](Exercise6a/Exercise6a.md)
+* [Exercise_6a](Exercise6a/Exercise6a.md)
 
-* [Execise_7b](Exercise7b/ex7b.html)
+* [Exercise_7b](Exercise7b/ex7b.html)
 
-* [Execise_10b](TableauExcercises/exercise10b.html)
+* [Exercise_10b](TableauExcercises/exercise10b.html)
 
 
 # Assignments
