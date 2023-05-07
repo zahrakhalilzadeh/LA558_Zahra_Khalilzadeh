@@ -21,7 +21,8 @@ In summary, the project aims to use data analysis techniques and remote sensing 
 
 ## Technology: proposed to use to complete the project
 
-The project proposes to use web mapping technology such as R or Tableau to visualize crop yields across different regions over time. Also, to generate 3 maps that show 2018 corn yield of Iowa counties along with average precipitation, average solar radiation, and average temperature through the growing season. R will be used to do 3-way ANOVA analysis and create box plots.
+
+The project aims to leverage web mapping technology, such as R or Tableau, to visualize the changes in crop yields across different counties of Iowa over time. The project also intends to generate three maps that depict the 2018 corn yield of Iowa counties along with the average precipitation, solar radiation, and temperature during the growing season. Additionally, R will be utilized to perform a three-way ANOVA analysis and create box plots.
 
 ## Data: 
 
