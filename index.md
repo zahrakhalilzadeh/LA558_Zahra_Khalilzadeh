@@ -29,4 +29,6 @@ I am a PhD student in Industrial Engineering at Iowa State University.
 
 # Final Project
 * [Project Proposal](FinalProject/ProjectProposal.md)
+* [Impacts of Weather Variables on Corn Yield in Iowa](FinalProject/FinalProject.html)
+* [Project Documentation](FinalProject/LA558WebMapping-FinalProjectDocumentation-ZahraKhalilzadeh.pdf)
 
