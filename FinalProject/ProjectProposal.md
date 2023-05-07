@@ -1,16 +1,14 @@
-## Your Name and Date: 
-
-Zahra Khalilzadeh, April 2nd 2023
+## Zahra Khalilzadeh
 
 
-## Project Title: 
 
-Crop Yield Analysis
+
+## Impacts of Weather Variables on Corn Yield in Iowa
 
 
 ## Abstract: 
 
-The goal of this project is to develop a web map using R or Tableau to visualize crop yields in Iowa over time and identify factors that impact production such as weather patterns. The project will use data analysis techniques to explore the correlation between crop yields and factors such as average precipitation and solar radiation. By creating a web map that displays crop yields across different counties in Iowa over time, the project aims to identify trends and patterns that could help farmers optimize their crop management practices. 
+The goal of this project is to develop a web map using R or Tableau to visualize crop yields in Iowa over time and identify factors that impact production such as weather patterns. The project will use data analysis techniques to explore the correlation between crop yields and factors such as average precipitation, solar radiation, and average temperature. Moreover, by creating a web map that displays crop yields across different counties in Iowa over time, the project aims to identify trends and patterns that could help farmers optimize their crop management practices. 
 
 
 ## Overview:
@@ -23,23 +21,23 @@ In summary, the project aims to use data analysis techniques and remote sensing 
 
 ## Technology: proposed to use to complete the project
 
-The project proposes to use web mapping technology such as R or Tableau to visualize crop yields across different regions over time.
+The project proposes to use web mapping technology such as R or Tableau to visualize crop yields across different regions over time. Also, to generate 3 maps that show 2018 corn yield of Iowa counties along with average precipitation, average solar radiation, and average temperature through the growing season. R will be used to do 3-way ANOVA analysis and create box plots.
 
-## Data: List of data sources you will utilize
+## Data: 
 
-Yield data, soil data, and weather data will be downloaded from https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction.
+Yield data, and weather data will be downloaded from https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction.
 
 
-## Inspiration: List of Web Sites used for inspiration for the project
+## Inspiration: 
 
 https://www.nass.usda.gov/Charts_and_Maps/Crops_County/index.php#cr
 
-## Potential Challenges: List items you will need to work through on the project
+## Potential Challenges: 
 
 * Data collection and cleaning: Gathering and cleaning data from different sources can be a time-consuming and challenging task. Ensuring data accuracy and consistency will be important to obtain meaningful insights from the analysis.
 * Developing a web map using R or Tableau requires technical skills in programming, data visualization, and geospatial analysis.
 
-## Timeline: Goal dates showcasing what you home to complete by certain dates. For example data collection, cleaning
+## Timeline: 
 
 I am planning to finish up this project by the end of April 2023.
 
